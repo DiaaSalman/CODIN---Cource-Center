@@ -1,0 +1,11 @@
+Colors :-
+--bg1 : #ffffff;
+--bg2 : #faf8f8;
+--text : #363636;
+--green : #4bae4f;
+--light-gradient : #ffb129;
+--dark-gradient : #fe1e45;
+
+Font :-
+font-family: 'Poppins', sans-serif;
+link : @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
